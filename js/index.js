@@ -1,1 +1,0 @@
-console.log(pertenezco a la tareados );
